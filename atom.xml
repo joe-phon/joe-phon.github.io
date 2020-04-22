@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://joe-phon.github.io/"/>
-  <updated>2020-04-15T16:00:00.000Z</updated>
+  <updated>2020-04-21T16:00:00.000Z</updated>
   <id>https://joe-phon.github.io/</id>
   
   <author>
@@ -17,11 +17,75 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>每周记事（04-04）</title>
+    <link href="https://joe-phon.github.io/2020/04/22/%E6%AF%8F%E5%91%A8%E8%AE%B0%E4%BA%8B%EF%BC%8804-04%EF%BC%89/"/>
+    <id>https://joe-phon.github.io/2020/04/22/%E6%AF%8F%E5%91%A8%E8%AE%B0%E4%BA%8B%EF%BC%8804-04%EF%BC%89/</id>
+    <published>2020-04-22T05:42:23.000Z</published>
+    <updated>2020-04-21T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="4月22日"><a href="#4月22日" class="headerlink" title="4月22日"></a>4月22日</h2><p><a href="https://is.gd/hYTZQi" target="_blank" rel="noopener">金正恩突傳病危</a></p><p><a href="https://is.gd/X1GiAH" target="_blank" rel="noopener">孙力军落马涉政变阴谋</a></p><p><a href="https://is.gd/0QqmMK" target="_blank" rel="noopener">《方方日記》遭圍攻的幕後黑手，“家醜不可外揚”之醜</a></p>]]></content>
+    
+    <summary type="html">
+    
+      记录每周重大时事新闻
+    
+    </summary>
+    
+    
+      <category term="思考" scheme="https://joe-phon.github.io/categories/%E6%80%9D%E8%80%83/"/>
+    
+      <category term="生活记事" scheme="https://joe-phon.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+      <category term="生活" scheme="https://joe-phon.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="疫情" scheme="https://joe-phon.github.io/tags/%E7%96%AB%E6%83%85/"/>
+    
+      <category term="时事" scheme="https://joe-phon.github.io/tags/%E6%97%B6%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>结构化机器学习项目--笔记</title>
+    <link href="https://joe-phon.github.io/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/"/>
+    <id>https://joe-phon.github.io/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-04-21T21:26:39.000Z</published>
+    <updated>2020-04-21T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="机器学习策略（理论）"><a href="#机器学习策略（理论）" class="headerlink" title="机器学习策略（理论）"></a>机器学习策略（理论）</h2><h3 id="为什么需要机器学习策略"><a href="#为什么需要机器学习策略" class="headerlink" title="为什么需要机器学习策略"></a>为什么需要机器学习策略</h3><ol><li>机器学习策略的作用</li></ol><p>找出最优的方案提升项目的性能</p><ol start="2"><li>策略种类如下：</li></ol><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/1.png" alt></p><h3 id="正交化（流程拉通，控制变量法）"><a href="#正交化（流程拉通，控制变量法）" class="headerlink" title="正交化（流程拉通，控制变量法）"></a>正交化（流程拉通，控制变量法）</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/2.png" alt></p><h3 id="创建单一数字评估指标"><a href="#创建单一数字评估指标" class="headerlink" title="创建单一数字评估指标"></a>创建单一数字评估指标</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/3.png" alt></p><h3 id="满足指标（达到该指标的阈值即可）和优化指标的确立"><a href="#满足指标（达到该指标的阈值即可）和优化指标的确立" class="headerlink" title="满足指标（达到该指标的阈值即可）和优化指标的确立"></a>满足指标（达到该指标的阈值即可）和优化指标的确立</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/4.png" alt></p><h3 id="训练集-验证集-测试集的划分（验证集和测试集同一分布）"><a href="#训练集-验证集-测试集的划分（验证集和测试集同一分布）" class="headerlink" title="训练集/验证集/测试集的划分（验证集和测试集同一分布）"></a>训练集/验证集/测试集的划分（验证集和测试集同一分布）</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/5.png" alt></p><h3 id="数据规模的划分"><a href="#数据规模的划分" class="headerlink" title="数据规模的划分"></a>数据规模的划分</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/6.png" alt></p><h3 id="什么时候改变验证集-测试集指标"><a href="#什么时候改变验证集-测试集指标" class="headerlink" title="什么时候改变验证集/测试集指标"></a>什么时候改变验证集/测试集指标</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/7.png" alt></p><h3 id="以人类为参照"><a href="#以人类为参照" class="headerlink" title="以人类为参照"></a>以人类为参照</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/8.png" alt></p><h3 id="可避免偏差"><a href="#可避免偏差" class="headerlink" title="可避免偏差"></a>可避免偏差</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/9.png" alt></p><h3 id="理解人类的表现"><a href="#理解人类的表现" class="headerlink" title="理解人类的表现"></a>理解人类的表现</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/10.png" alt></p><h3 id="超越人类的表现"><a href="#超越人类的表现" class="headerlink" title="超越人类的表现"></a>超越人类的表现</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/11.png" alt></p><h3 id="改善模型表现"><a href="#改善模型表现" class="headerlink" title="改善模型表现"></a>改善模型表现</h3><p><img src="/2020/04/22/%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE-%E7%AC%94%E8%AE%B0/12.png" alt></p><h2 id="机器学习策略（实践）"><a href="#机器学习策略（实践）" class="headerlink" title="机器学习策略（实践）"></a>机器学习策略（实践）</h2><h3 id="进行误差分析"><a href="#进行误差分析" class="headerlink" title="进行误差分析"></a>进行误差分析</h3><h3 id="处理标注错误的数据"><a href="#处理标注错误的数据" class="headerlink" title="处理标注错误的数据"></a>处理标注错误的数据</h3><h3 id="快速搭建第一轮应用"><a href="#快速搭建第一轮应用" class="headerlink" title="快速搭建第一轮应用"></a>快速搭建第一轮应用</h3><h3 id="不同的划分验证集与测试集"><a href="#不同的划分验证集与测试集" class="headerlink" title="不同的划分验证集与测试集"></a>不同的划分验证集与测试集</h3><h3 id="不匹配的划分数据下的偏差与方差"><a href="#不匹配的划分数据下的偏差与方差" class="headerlink" title="不匹配的划分数据下的偏差与方差"></a>不匹配的划分数据下的偏差与方差</h3>]]></content>
+    
+    <summary type="html">
+    
+      机器学习策略笔记
+    
+    </summary>
+    
+    
+      <category term="IT" scheme="https://joe-phon.github.io/categories/IT/"/>
+    
+      <category term="笔记" scheme="https://joe-phon.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="AI" scheme="https://joe-phon.github.io/categories/AI/"/>
+    
+      <category term="机器学习" scheme="https://joe-phon.github.io/categories/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="IT" scheme="https://joe-phon.github.io/tags/IT/"/>
+    
+      <category term="AI" scheme="https://joe-phon.github.io/tags/AI/"/>
+    
+      <category term="机器学习" scheme="https://joe-phon.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="笔记" scheme="https://joe-phon.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>每周记事（04-3)</title>
     <link href="https://joe-phon.github.io/2020/04/15/%E6%AF%8F%E5%91%A8%E8%AE%B0%E4%BA%8B%EF%BC%8804-3/"/>
     <id>https://joe-phon.github.io/2020/04/15/%E6%AF%8F%E5%91%A8%E8%AE%B0%E4%BA%8B%EF%BC%8804-3/</id>
     <published>2020-04-14T16:00:00.000Z</published>
-    <updated>2020-04-15T16:00:00.000Z</updated>
+    <updated>2020-04-20T16:00:00.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="4月15日"><a href="#4月15日" class="headerlink" title="4月15日"></a>4月15日</h2><p><a href="https://www.youtube.com/watch?v=jARGuN6JGHw" target="_blank" rel="noopener">外宣记者的尴尬处境</a></p><p><a href="https://www.youtube.com/watch?v=iQO1viRQEd0" target="_blank" rel="noopener">武汉P4实验室责任还未清算，新病毒实验室挂牌？</a></p><p><a href="https://t66y.com/htm_data/2004/7/3889507.html" target="_blank" rel="noopener">病毒起源是如何被误传的</a></p><p><a href="https://t66y.com/htm_data/2004/7/3889444.html" target="_blank" rel="noopener">美国暂停资助世卫组织</a></p><h2 id="4月16日"><a href="#4月16日" class="headerlink" title="4月16日"></a>4月16日</h2><p><a href="https://www.youtube.com/watch?v=vPnmOLQCZsU" target="_blank" rel="noopener">世卫组织疫情发言时间线</a></p><h2 id="4月17日"><a href="#4月17日" class="headerlink" title="4月17日"></a>4月17日</h2><p><a href="https://t66y.com/htm_data/2004/7/3891602.html" target="_blank" rel="noopener">內部文件揭中共瞞報</a></p><p><a href="https://www.youtube.com/watch?v=-9WLaKjldao" target="_blank" rel="noopener">中共收紧公民护照</a></p><h2 id="4月18日"><a href="#4月18日" class="headerlink" title="4月18日"></a>4月18日</h2><p><a href="https://www.youtube.com/watch?v=PLcbpZk-1Mk" target="_blank" rel="noopener">武漢調升死亡數</a></p><p><a href="https://www.youtube.com/watch?v=o8Pc1q4R6-0" target="_blank" rel="noopener">中共又在核试验</a></p><p><a href="https://is.gd/xI8qOT" target="_blank" rel="noopener">破解中国经济增长的迷思</a></p><h2 id="4月19日"><a href="#4月19日" class="headerlink" title="4月19日"></a>4月19日</h2><p><a href="https://www.youtube.com/watch?v=HwQZTfrw7cg" target="_blank" rel="noopener">港警秋後算賬大搜捕</a></p><p><a href="https://t66y.com/htm_data/2004/7/3894501.html" target="_blank" rel="noopener">中共禁止在华设厂的企业把产品运回美国</a></p><h2 id="4月20日"><a href="#4月20日" class="headerlink" title="4月20日"></a>4月20日</h2><p><a href="https://www.youtube.com/watch?v=2RkUX11ovgI" target="_blank" rel="noopener">香港警察抓捕民主派人士</a></p><h2 id="4月21日"><a href="#4月21日" class="headerlink" title="4月21日"></a>4月21日</h2><p><a href="https://is.gd/TXEFyY" target="_blank" rel="noopener">公安部副部长孙力军倒台</a><br><a href="https://www.youtube.com/watch?v=V2U-5hnA6mk" target="_blank" rel="noopener">戰狼言論再升級，砸鍋論「擊穿人性底線」</a></p>]]></content>
     
@@ -146,9 +210,9 @@
     
       <category term="IT" scheme="https://joe-phon.github.io/categories/IT/"/>
     
-      <category term="hexo" scheme="https://joe-phon.github.io/categories/IT/hexo/"/>
-    
       <category term="markdown" scheme="https://joe-phon.github.io/categories/IT/markdown/"/>
+    
+      <category term="hexo" scheme="https://joe-phon.github.io/categories/IT/hexo/"/>
     
     
       <category term="IT" scheme="https://joe-phon.github.io/tags/IT/"/>
